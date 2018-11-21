@@ -4,4 +4,4 @@ title: Om mig
 permalink: /about/
 ---
 
-blabla
+blablafnkewavngrgnek
